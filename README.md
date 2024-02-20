@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarah-Mashhood
 - 👀 I’m interested in  Data Analysis and Data Sciences
-- 🌱 I’m currently learning Data Sciences and I have a good knowledge of Data Analysis
+- 🌱 I've expertise in Python, SQL, Power BI, ML, DL, CNN and Time Series
 - 💞️ I’m looking to collaborate on Github
 
 
